@@ -1,0 +1,7 @@
+[
+  {"name": "bug", "color": "d73a4a", "description": "Something isn't working"},
+  {"name": "api-change", "color": "0052cc", "description": "Changes in API contracts or endpoints"},
+  {"name": "integration", "color": "5319e7", "description": "Related to external integrations"},
+  {"name": "qa", "color": "fbca04", "description": "Quality assurance related"},
+  {"name": "blocked", "color": "000000", "description": "Blocked by dependency or pending external action"}
+]
